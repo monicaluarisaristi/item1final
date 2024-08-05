@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Detalles del Medicamento</h1>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <td>{{ medicamento.id }}</td>
+    </tr>
+    <tr>
+        <th>Farmacéutica</th>
+        <td>{{ medicamento.farmaceutica }}</td>
+    </tr>
+    <tr>
+        <th>Nombre Genérico</th>
+        <td>{{ medicamento.nombre_generico }}</td>
+    </tr>
+    <tr>
+        <th>Nombre Droga</th>
+        <td>{{ medicamento.nombre_droga }}</td>
+    </tr>
+    <tr>
+        <th>Vencimiento</th>
+        <td>{{ medicamento.vencimiento }}</td>
+    </tr>
+    <tr>
+        <th>Cantidad</th>
+        <td>{{ medicamento.cantidad }}</td>
+    </tr>
+    <tr>
+        <th>Stock Mínimo</th>
+        <td>{{ medicamento.stockminimo }}</td>
+    </tr>
+</table>
+<a href="{{ url_for('index') }}" class="btn btn-secondary">Volver</a>
+{% endblock %}

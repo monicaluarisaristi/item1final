@@ -1,0 +1,101 @@
+id,farmaceutica,nombre_generico,nombre_droga,vencimiento,cantidad,stockminimo
+1,Dr. Reddy's Laboratories Limited,Ibuprofen,IBU,27/06/2024,71,26
+2,"Roberts Oxygen Company, Inc.",Nitrous Oxide,Nitrous Oxide,11/04/2024,54,23
+3,Cardinal Health,lisinopril,Lisinopril,01/09/2023,36,14
+4,"APP Pharmaceuticals, LLC",DEFEROXAMINE MESYLATE,Deferoxamine,15/12/2023,22,19
+5,Neutrogena Corporation,Titanium Dioxide,Neutrogena Nourishing Long Wear Makeup Tone Correcting Complex Sunscreen Broad Spectrum SPF20,11/07/2024,57,24
+6,Tarte Inc,"Octinoxate, Octisalate, and Oxybenzone",ReCreate Foundation,27/07/2023,74,20
+7,Lake Erie Medical & Surgucal Supply DBA Quality Care Products LLC,Rosuvastatin calcium,CRESTOR,28/03/2024,27,26
+8,Purdue Pharma LP,morphine sulfate,MS Contin,29/11/2023,84,28
+9,RITE AID CORPORATION,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Rite Aid RENEWALSPF 50,21/07/2023,37,26
+10,Ben E. Keith,Ethyl Alcohol,Ben E.Keith,19/02/2024,92,17
+11,LUMENE OY,"OCTINOXATE, OXYBENZONE, OCTISALATE, AVOBENZONE",Lumene Bright Now Vitamin C Day SPF 15 Sunscreen Broad Spectrum,11/06/2024,14,30
+12,H E B,Ibuprofen,rx act ibuprofen,09/01/2024,76,28
+13,"Cargus International, Inc.",Benzocaine,Mark 3,04/12/2023,74,28
+14,Wal-Mart Stores Inc,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",equate daytime,07/04/2024,92,27
+15,Mylan Pharmaceuticals Inc.,spironolactone and hydrochlorothiazide,Spironolactone and Hydrochlorothiazide,16/12/2023,71,12
+16,Meijer Distribution Inc,acetaminophen,pain and fever,24/10/2023,25,20
+17,Lake Erie Medical DBA Quality Care Products LLC,Diclofenac Sodium,Diclofenac Sodium,24/06/2024,84,18
+18,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",Titanium Dioxide and Zinc Oxide,Korres Wild Rose Mineral Foundation,08/08/2023,1,29
+19,Bonne Bell LLC,"OCTINOXATE, OXYBENZONE, PADIMATE O",Ariel Sun Smacker SPF 24 Strawberry Kiwi,31/10/2023,54,14
+20,"Smith & Nephew, Inc.",BENZETHONIUM CHLORIDE,Secura Total Body Foam Cleanser,17/10/2023,60,14
+21,RiconPharma LLC.,Ultramicrosize Griseofulvin Tablets,Ultramicrosize Griseofulvin,13/11/2023,45,18
+22,Par Pharmaceutical Inc.,Candesartan Cilexetil and Hydrochlorothiazide,Candesartan Cilexetil-Hydrochlorothiazide,09/10/2023,27,27
+23,"Hospira, Inc.",NALOXONE HYDROCHLORIDE,Naloxone Hydrochloride,11/05/2024,6,26
+24,"ALK-Abello, Inc.",Fire Ant,SOLENOPSIS INVICTA,27/08/2023,17,25
+25,"NCS HealthCare of KY, Inc dba Vangard Labs",oxybutynin chloride,Oxybutynin Chloride,07/09/2023,1,14
+26,HOMEOLAB USA INC.,AGARICINUM,AGARICINUM,07/06/2024,11,24
+27,Cantrell Drug Company,Cefazolin Sodium,Cefazolin Sodium,07/06/2024,14,14
+28,"Ingenus Pharmaceuticals, LLC",Simvastatin,Simvastatin,05/10/2023,17,27
+29,Walgreen Company,Guaifenesin,wal tussin,22/11/2023,72,10
+30,Qualitest Pharmaceuticals,methocarbamol,Methocarbamol,28/02/2024,27,30
+31,Cardinal Health,Carisoprodol,Carisoprodol,05/08/2023,2,25
+32,"Newton Laboratories, Inc.","Adrenalinum, Arg. nit.,Arsenicum alb., Bryonia, Cinchona, Graphites,Iodium, Iris versicolor, Lachesis, Lycopodium, Nat. mur., Phosphorus, Phytolacca, Sulphur,Thyroidinum",Hypoglycemia,04/10/2023,31,14
+33,"PD-Rx Pharmaceuticals, Inc.",Erythromycin,ERY-TAB,03/01/2024,4,15
+34,"ALK-Abello, Inc.",PYRETHRUM CINERARIIFOLIUM,PYRETHRUM CINERARIIFOLIUM,13/01/2024,85,30
+35,"Nelco Laboratories, Inc.",Velvet Grass,Velvet Grass,18/11/2023,69,25
+36,STAT Rx USA LLC,Cyclobenzaprine Hydrochloride,Cyclobenzaprine Hydrochloride,04/12/2023,8,22
+37,Rebel Distributors Corp,ziprasidone hydrochloride,Geodon,18/04/2024,97,17
+38,Walgreen Co,Cetylpyridinium chloride,Health,25/10/2023,88,28
+39,Budpak Inc.,Clotrimazole,Budpak Antifungal Clotrimazole,06/06/2024,1,10
+40,The 3700 Company LLC dba Air Options Respiratory Care,OXYGEN,OXYGEN,06/08/2023,11,24
+41,Rite Aid,"DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE",Night Time Cough Cherry,01/06/2024,75,19
+42,Sesvalia USA LLC,"OCTOCRYLENE, TITANIUM DIOXIDE","REPASKIN BODY LOTION, BROAD SPECTRUM SPF 50",15/06/2024,55,29
+43,L'Oreal USA Products Inc,"Avobenzone, Homosalate, Octisalate and Octocrylene",LOreal Paris Ideal Moisture Even Skin Tone Moisturizer Broad Spectrum SPF 25 Sunscreen,04/12/2023,33,21
+44,Par Pharmaceutical Inc,Metaproterenol Sulfate,Metaproterenol Sulfate,05/11/2023,49,18
+45,Cardinal Health,amitriptyline hydrochloride,Amitriptyline Hydrochloride,27/03/2024,14,14
+46,Merck Sharp & Dohme Corp.,Latrodectus mactans,ANTIVENIN,30/12/2023,28,18
+47,"DeWitt Laboratories, Inc",Allantoin,Burn-B Gone OTC,20/09/2023,7,18
+48,Akorn,fluorescein sodium,AK-FLUOR,15/08/2023,66,29
+49,"Physicians Total Care, Inc.",LISINOPRIL AND HYDROCHLOROTHIAZIDE,LISINOPRIL AND HYDROCHLOROTHIAZIDE,02/01/2024,93,20
+50,REMEDYREPACK INC.,Omeprazole,leader omeprazole,09/04/2024,3,12
+51,Barr Laboratories Inc.,Didanosine,Didanosine,20/05/2024,58,24
+52,"Dermalogica, Inc.","Avobenzone, Octinoxate, Octisalate, and Oxybenzone",Dynamic Skin Recovery,13/12/2023,58,18
+53,American Sales Company,"Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",care one cold head congestion,11/08/2023,68,17
+54,Bryant Ranch Prepack,Erythromycin Stearate,Erythrocin Stearate,24/06/2024,25,30
+55,"Nelco Laboratories, Inc.",Rabbit Epithelium,Rabbit Epithelium,04/01/2024,4,25
+56,"Chattem, Inc.",Sodium Fluoride,ACT Anticavity Fluoride Mint,06/01/2024,79,12
+57,COSTCO WHOLESALE CORPORATION,ibuprofen,Ibuprofen,12/08/2023,39,29
+58,Procter and Gamble Manufacturing Company,Aluminum Zirconium Octachlorohydrex Gly,Gillette Clinical Sport,25/01/2024,54,13
+59,Purminerals,Titanium Dioxide and Zinc Oxide,Purminerals 4-in-1 Mineral Tinted Moisturizer Broad Spectrum SPF 20 (TAN),26/08/2023,47,19
+60,EQUALINE (SuperValu),"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",Daytime Nighttime Cold Flu Relief,15/02/2024,46,28
+61,"Allergan, Inc.",flurbiprofen sodium,OCUFEN,17/04/2024,29,15
+62,Eight and Company,"Arsenicum album, Avena sativa, Bryonia, Capsicum annuum, Carbo animalis, Carduus marianus, Chelidonium majus, Hepar suis, Kali iodatum, Lapis albus, Radium bromatum, Taraxacum officinale, Thuja occidentalis",Sprayology Party Relief,03/02/2024,57,12
+63,STAT RX USA LLC,PROCHLORPERAZINE MALEATE,PROCHLORPERAZINE,31/08/2023,64,23
+64,L'Oreal USA Florence Manufacturing,Pyrithione Zinc,Garnier Fructis Antidandruff,03/06/2024,31,14
+65,"DLC Laboratories, Inc",BENZALKONIUM CHLORIDE,Tincture Merthiolate,14/02/2024,40,10
+66,"Physicians Total Care, Inc.",methylphenidate hydrochloride,Ritalin,18/12/2023,79,10
+67,"Prime Enterprises, Inc.","Avobenzone, Octisalate, Octocrylene, and Oxybenzone",Australian Gold,22/08/2023,58,12
+68,"Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)","dextromethorphan hydrobromide, guaifenesin, phenylephrine hydrochloride",Mucus Relief Severe Cough and Congestion,27/01/2024,8,25
+69,"King Bio, Inc.","Arsenicum album, Cadmium sulphuricum, Ipecacuanha, Nux vomica, Phosphoricum acidum, Phosphorus, Strontium carbonicum, Tabacum, Uranium nitricum.",ChemoClenz,13/03/2024,11,25
+70,Active and Innovative,Diabetic Pain Relieving,Professional Therapy,23/08/2023,61,19
+71,Emilia Personal Care Inc.,"Titanium Dioxide, Zinc Oxide",Safe Harbor - Natural Anti-Aging Sunscreen Broad Spectrum SPF30 Sunscreen Sensitive Skin,29/08/2023,48,22
+72,"PD-Rx Pharmaceuticals, Inc.",sertraline hydrochloride,SERTRALINE HYDROCHLORIDE,18/01/2024,50,18
+73,"Geri-Care Pharmaceuticals, Corp",sorbitol,SORBITOL,19/07/2023,51,25
+74,"Fresenius Kabi USA, LLC",NEOSTIGMINE METHYLSULFATE,Neostigmine Methylsulfate,30/07/2023,1,15
+75,"Pack Pharmaceuticals, LLC",Diclofenac Sodium,Diclofenac Sodium,16/08/2023,33,14
+76,"MSD Consumer Care, Inc.",Clotrimazole,Gyne-Lotrimin 7,15/02/2024,95,23
+77,Wockhardt USA LLC.,Lisinopril,Lisinopril,13/09/2023,62,28
+78,Topco Associates LLC,Acetaminophen,TopCare Pain Relief,30/12/2023,93,11
+79,DUKAL CORPORATION,BENZALKONIUM CHLORIDE,BZK Towelette,21/12/2023,61,19
+80,Pfizer Laboratories Div Pfizer Inc,Rifampin,Rifampin,12/11/2023,29,16
+81,Bryant Ranch Prepack,Nitrofurantoin (monohydrate/macrocrystals),Nitrofurantoin (monohydrate/macrocrystals),17/01/2024,100,29
+82,"Safetec of America, Inc.",benzocaine,Pain Relief,03/09/2023,22,28
+83,Good Neighbor Pharmacy,Childrens Tylenol Plus Multi-Symptom Cold,Childrens Plus Multi-Symptom Cold Grape,02/01/2024,64,10
+84,Rebel Distributors Corp,Warfarin Sodium,Warfarin Sodium,24/05/2024,38,30
+85,"Golden State Medical Supply, Inc.",Labetalol hydrochloride,Labetalol hydrochloride,23/02/2024,94,23
+86,AstraZeneca Pharmaceuticals LP,Zafirlukast,ACCOLATE,09/03/2024,91,30
+87,Mckesson (Sunmark),docusate sodium and sennosides,natural laxative,27/06/2024,91,30
+88,REMEDYREPACK INC.,Quetiapine fumarate,SEROQUEL,23/10/2023,32,17
+89,Procter & Gamble Manufacturing Company,Octinoxate and Zinc Oxide,Olay Age Defying Mature Skin,11/06/2024,49,25
+90,Sanum Kehlbeck GmbH & Co. KG,penicillium roqueforti,Pleo Fort,18/12/2023,57,12
+91,BluePoint Laboratories,Quinapril,Quinapril,29/08/2023,64,14
+92,"Sigmapharm Laboratories, LLC",ADEFOVIR DIPIVOXIL,ADEFOVIR DIPIVOXIL,13/03/2024,67,15
+93,Apotex Corp.,FENTANYL,FENTANYL,26/05/2024,12,16
+94,Major Pharmaceuticals,Duloxetin hydrochloride,Duloxetine hydrochloride,24/08/2023,70,17
+95,Home Health Depot,Oxygen,Oxygen,09/09/2023,22,26
+96,"Physicians Total Care, Inc.",montelukast sodium,SINGULAIR,14/03/2024,30,25
+97,"Paddock Laboratories, Inc.",Prednisolone Sodium Phosphate,Prednisolone Sodium Phosphate,25/07/2023,31,23
+98,STAT RX USA LLC,ATOMXETINE HYROCHLORIDE,STRATTERA,05/01/2024,47,25
+99,"Natural Creations, Inc.","American Ginseng, Black Cohosh, Spigelia Anthelmia, Silver Nitrate, Arsenic Trioxide, Gold, Strychnos Ignatti Seed, Lachesis Muta Venom, Lycopodium Clavatum Spore, Sodium Chloride, Phosphoric Acid, Platinum, Pulsatilla Vulgaris, Sepia Officinalis Juice, Thuja Occidentalis Leafy Twig,",DEPRESSION,24/08/2023,70,18
+100,"Peaceful Mountain, Inc","Bryonia, Arsenicum Iodatum, Baryta Carbonica, Alumina, Calendula Officinalis, Sulphuricum Acidum, Symphytum Officinale",Chafe Rescue,25/03/2024,49,10

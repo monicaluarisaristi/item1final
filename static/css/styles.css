@@ -1,0 +1,46 @@
+.container {
+    background-color: rgb(112, 241, 157);
+    padding: 1rem; /* Aumenta el padding para un mejor espaciado interno */
+    border-radius: 0.25rem; /* Ajuste de borde */
+    width: 100%; /* Asegura que el contenedor ocupe todo el ancho disponible */
+    max-width: 1200px; /* Ajusta el ancho máximo si es necesario */
+    margin: 0 auto; /* Centra el contenedor */
+}
+.btn-group .btn {
+    margin: 0.25rem; /* Reduce el margen para evitar que se salgan del contenedor */
+}
+
+.btn {
+    margin-bottom: 0.5rem; /* Asegura que haya espacio entre los botones y otros elementos */
+}
+
+.form-group {
+    margin-bottom: 1rem; /* Asegura que haya espacio suficiente entre los campos del formulario */
+}
+.table {
+    width: 100%; /* Asegura que la tabla ocupe todo el ancho del contenedor */
+    margin-top: 1rem; /* Ajusta el margen superior para un mejor espaciado */
+    border-collapse: collapse; /* Colapsa los bordes para un mejor diseño */
+}
+
+.table th, .table td {
+    padding: 0.75rem;
+    text-align: left; /* Alinea el texto a la izquierda para mejorar la legibilidad */
+}
+
+.table th {
+    background-color: #db4faa;
+    font-weight: bold;
+    margin: 0;
+}
+.alert {
+    margin-top: 1rem; /* Ajusta el margen superior para un mejor espaciado */
+}
+h1 {
+    font-size: 2rem; /* Ajusta el tamaño de la fuente si es necesario */
+    margin-bottom: 1rem;
+}
+
+body {
+    font-size: 1rem; /* Ajusta el tamaño de la fuente del cuerpo si es necesario */
+}
