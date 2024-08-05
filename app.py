@@ -1,11 +1,11 @@
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 from config import Config
-from flask import  request, redirect, url_for, flash
+from flask import request, redirect, url_for, flash
+
 app = Flask(__name__)
 app.config.from_object(Config)
 db = SQLAlchemy(app)
-
 
 class Medicamento(db.Model):
     __tablename__ = "medicamentos"
@@ -18,7 +18,7 @@ class Medicamento(db.Model):
     stockminimo = db.Column(db.Integer, nullable=False)
 
     def __repr__(self):
-        return f'<Medicamento {self.nombre_generico}>' # Importa aquí después de inicializar db
+        return f'<Medicamento {self.nombre_generico}>'
 
 @app.route('/')
 def index():
@@ -67,13 +67,16 @@ def edit_medicamento(id):
 
     return render_template('add_edit_medicamento.html', medicamento=medicamento)
 
-@app.route('/delete/<int:id>', methods=['POST'])
-def delete_medicamento(id):
+@app.route('/delete_confirm/<int:id>', methods=['GET', 'POST'])
+def delete_confirm(id):
     medicamento = Medicamento.query.get_or_404(id)
-    db.session.delete(medicamento)
-    db.session.commit()
-    flash('Medicamento eliminado correctamente.', 'success')
-    return redirect(url_for('index'))
+    if request.method == 'POST':
+        db.session.delete(medicamento)
+        db.session.commit()
+        flash('Medicamento eliminado correctamente.', 'success')
+        return redirect(url_for('index'))
+
+    return render_template('delete_confirm.html', medicamento=medicamento)
 
 @app.route('/medicamento/<int:id>')
 def medicamento_detail(id):
@@ -82,3 +85,10 @@ def medicamento_detail(id):
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+import os
+
+class Config:
+    SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
+    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or 'sqlite:///dbFinal.db'
+   # SQLALCHEMY_TRACK_MODIFICATIONS = False
